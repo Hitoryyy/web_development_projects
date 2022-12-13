@@ -44,3 +44,26 @@ body {
 .list {
     list-style-type: none;
 }
+
+
+.link {
+    color: green;
+}
+
+.menu__list {
+    border: 1px solid #000;
+}
+
+.text-up {
+    text-transform: uppercase;
+}
+
+.heading1 {
+    text-align: center;
+    color: purple;
+}
+
+.text1 {
+    text-align: center;
+    color: orange;
+}
