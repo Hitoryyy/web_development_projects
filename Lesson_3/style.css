@@ -1,0 +1,73 @@
+p {
+    color: cornflowerblue;
+}
+
+h1 {
+    background-color: darkgrey;
+}
+
+.heading {
+    color: purple;
+}
+
+.back-grey {
+    background-color: grey;
+}
+
+.input {
+    color: red;
+}
+
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(img/fk94bnn286.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+.text {
+    color: blue;
+    font-family: serif;
+}
+
+.list {
+    list-style-type: none;
+}
+
+
+.link {
+    color: green;
+}
+
+.menu__list {
+    border: 1px solid #000;
+}
+
+.text-up {
+    text-transform: uppercase;
+}
+
+.heading1 {
+    text-align: center;
+    color: purple;
+}
+
+.text1 {
+    text-align: center;
+    color: orange;
+}
+
+.text2 {
+    color: green;
+}
