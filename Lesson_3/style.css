@@ -5,3 +5,15 @@ p {
 h1 {
     background-color: darkgrey;
 }
+
+.heading {
+    color: purple;
+}
+
+.back-grey {
+    background-color: grey;
+}
+
+.input {
+    color: red;
+}
