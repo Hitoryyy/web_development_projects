@@ -48,3 +48,13 @@
     color: #FFFFFF;
     text-transform: uppercase;
 }
+
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(../img/kontaktyi.jpg);
+    background-size: cover;
+    background-position: center;
+}
