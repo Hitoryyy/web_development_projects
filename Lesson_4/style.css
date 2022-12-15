@@ -1,5 +1,6 @@
 .header {
     background-color: #ccc;
+    margin-top: 60px;
 }
 
 .footer {
@@ -8,4 +9,20 @@
 
 .text-red {
     color: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.block {
+    border: 1px solid #000;
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 48px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
 }
