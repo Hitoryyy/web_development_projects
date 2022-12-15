@@ -75,3 +75,38 @@
 .menu__list:hover .menu__link {
     text-decoration: none;
 }
+
+.menu__li_new::after {
+    content: ' super new';
+    color: red;
+}
+
+.menu__li_2:before {
+    content: '* ';
+    color: orange;
+}
+
+.menu__li_2:hover::after {
+    content: ' <<';
+}
+
+.product {
+    width: 250px;
+    border: 1px solid #000;
+}
+
+.product__img {
+    height: 150px;
+    background-color: forestgreen;
+}
+
+.product_new::after {
+    content: 'new';
+    text-transform: uppercase;
+    color: red;
+}
+
+.text::first-letter {
+    color: red;
+    font-size: 24px;
+}
